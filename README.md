@@ -1,5 +1,6 @@
 ![background](https://github.com/HuiGyun-kim/HuiGyun-kim/assets/105576581/27653f3c-06dc-4fff-9396-73ec3db909ed)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HuiGyun-kim/hit-counter&count_bg=%2379C83D&title_bg=%23327FD7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khg940904@gmail.com)](mailto:khg940904@gmail.com)
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 <div align="center">
 <br/>
